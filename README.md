@@ -17,12 +17,17 @@ I'm Jishnu Baruah!
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 ### 📈 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnu-baruah&show_icons=true&theme=radical)
 
 ### 🚀 Top Projects:
 
