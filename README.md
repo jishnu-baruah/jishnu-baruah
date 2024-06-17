@@ -29,14 +29,9 @@ I'm Jishnu Baruah!
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnu-baruah&show_icons=true&theme=radical)
 
-### 🚀 Top Projects:
-
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/yourusername/projectname)
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/yourusername/projectname)
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourtwitter)
-[![Personal Website](https://img.shields.io/badge/-Website-000?&logo=Web)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jishnubaruah2020/))
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)]([https://twitter.com/yourtwitter](https://x.com/JishnuBaruah00))
 
